@@ -18,7 +18,7 @@ import { Wand2 } from 'lucide-react';export default function SingleButtonPage(pr
                 Clicked {clickCount} time{clickCount !== 1 ? 's' : ''}
               </> : <>
                 <Wand2 className="mr-2" />
-                Click Me
+                Click Me aaa
               </>}
           </div>
         </button>
